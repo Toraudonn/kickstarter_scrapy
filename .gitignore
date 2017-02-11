@@ -1,0 +1,5 @@
+kickapp/data.csv
+kickapp/rates/*.csv
+kickapp/projects/*.csv
+*.pyc
+*.zip
